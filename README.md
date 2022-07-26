@@ -4,4 +4,9 @@
 <br>
 
 <h1> Tutorial <h1>
-  1. download dulu semua file yang di 
+  1. download dulu semua file yang di https://github.com/Alihusni03/spk
+  2. Setelah itu extrak file tersebut
+  3. kemudian pindahkan folder tersebut kedalam C:\xampp\htdocs
+  4. lalu jalankan xampp dan start apache sama mysql
+  5. kemudian buka chrome atau yang lain terus ketik localhost/"nama projek"/
+  6. selesai
