@@ -1,9 +1,9 @@
 # fuzzy-uji kelayakan mobil second
-<h4>Aplikasi Sederhana Logika Fuzzy untuk menentukan kelayakan mobil bekas</h4>
+<h1>Aplikasi Sederhana Logika Fuzzy untuk menentukan kelayakan mobil bekas</h1>
 <b>Sebagai Tugas Matakuliah Kecerdasan Buatan</b><br>
 <br>
 
-<h1> Tutorial <h1>
+<h2> Tutorial <h2>
   1. download dulu semua file yang di https://github.com/Alihusni03/spk<br>
   2. Setelah itu extrak file tersebut<br>
   3. kemudian pindahkan folder tersebut kedalam C:\xampp\htdocs<br>
